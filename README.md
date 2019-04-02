@@ -1,2 +1,2 @@
 # musiconPractice
-Practice incorporation handlebars into a standard static webpage (CodeCademy).
+Practice incorporation handlebars into a standard static webpage (CodeCademy build project).
